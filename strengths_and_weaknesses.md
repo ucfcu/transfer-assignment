@@ -3,3 +3,4 @@
 2. with GitHub, great for working with other people
 
 # Weaknesses
+1. confusing at first
