@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. confusing at first
+2. does not work well with all data formats
